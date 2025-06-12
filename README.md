@@ -11,7 +11,7 @@ debug:https://chouge1huao.github.io/Magiskcustomchannel/Magisk/debug.json
 
 ## Kitsune Mask
 
-canary:https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/canary.json         
+canary:https://zkjq.github.io/Magiskcustomchannel/Kitsune%20Mask/canary.json     
 
 debug:https://chouge1huao.github.io/Magiskcustomchannel/Kitsune Mask/debug.json     
 
